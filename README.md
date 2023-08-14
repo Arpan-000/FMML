@@ -3,8 +3,6 @@
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arpan-tiwari-348a41244/)
 [![Gmail Badge](https://img.shields.io/badge/arpantiwari11110@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)]
-[![Twitter Badge](https://img.shields.io/twitter/follow/Mahesh__Vardhan?label=Twitter&style=for-the-badge&logo=Twitter&logoColor=blue)](https://twitter.com/intent/follow?screen_name=Mahesh__Vardhan "Twitter")
-[![Instagram Badge](https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arpan_1236/)
 ![GitHub Badge](https://img.shields.io/github/followers/hithere1612?style=for-the-badge&logo=GitHub&logoColor=white)
 
 
